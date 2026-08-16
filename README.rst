@@ -1,3 +1,9 @@
+> **Archived upstream fork/reference — do not use for new work.**  
+> **Upstream:** [https://github.com/spatialaudio/python-sounddevice](https://github.com/spatialaudio/python-sounddevice)  
+> **License/provenance:** Preserved upstream history and existing license/provenance notices (MIT).  
+> **Current code, releases, issues, and security:** Use upstream.  
+> **Maintained pc-style delta:** None (apart from this archive notice).
+
 Play and Record Sound with Python
 =================================
 
